@@ -2,7 +2,7 @@
 # Andretasisatt Web Page - Poster Creation
 ## Welcome to the Andretasisatt web page poster creation project! This repository is dedicated to designing three captivating posters for the Andretasisatt website.
 
-## Project Overview
+### Project Overview
 ** Objective: Create three visually stunning posters to enhance the aesthetic appeal of the Andretasisatt web page.
 
 ** Tools: Utilizing graphic design software such as Adobe Photoshop or Illustrator to bring creativity and professionalism to the posters.
